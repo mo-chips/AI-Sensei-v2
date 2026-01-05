@@ -115,6 +115,14 @@ Current focus:
 * Clear domain boundaries
 * Secure request handling
 
+## 🔜 Roadmap
+
+* React frontend (Vite + Tailwind)
+* Unit tests for quiz generation logic
+* Learning streak and progress tracking
+* Structured logging (Serilog)
+* Cloud deployment (Azure / AWS)
+
 ## 📄 License
 This project is licensed under the MIT License.
 ```
