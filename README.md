@@ -10,7 +10,7 @@ Built on .NET 10, the project focuses on clean architecture, security, and long-
 > **📜 The Evolution (v1 vs v2)**
 > This project is a complete architectural rewrite of the original prototype(v1).
 >
-> | Feature | Legacy (v1) | **Current (v2)** |
+> | Feature | Prototype (v1) | **Current (v2)** |
 > | :--- | :--- | :--- |
 > | **Framework** | .NET 8.0 | **.NET 10.0 (Latest Performance)** |
 > | **Architecture** | Tightly Coupled | **Clean 2-Layer Architecture** |
