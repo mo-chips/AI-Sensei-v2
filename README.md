@@ -106,7 +106,7 @@ Authorization: Bearer <token>
 | GET    | `/api/quiz/{id}`     | Get quiz by ID                       |
 | DELETE | `/api/quiz/{id}`     | Delete quiz                          |
 
-##🧪 Testing
+## 🧪 Testing
 
 Testing is planned but not yet implemented.
 
