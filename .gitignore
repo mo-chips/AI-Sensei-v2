@@ -1,0 +1,14 @@
+# Ignore Build Folders (in all subdirectories)
+bin/
+obj/
+
+# Ignore Database
+*.db
+*.db-shm
+*.db-wal
+
+# Ignore User Settings
+*.user
+
+# Ignore Secrets
+secrets.json

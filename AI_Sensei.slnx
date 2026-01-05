@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AI_Sensei.API/AI_Sensei.API.csproj" />
+  <Project Path="AI_Sensei.Core/AI_Sensei.Core.csproj" />
+</Solution>
